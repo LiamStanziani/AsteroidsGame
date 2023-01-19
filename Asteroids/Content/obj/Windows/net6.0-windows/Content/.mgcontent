@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/fangt/Desktop/SEM 1 2ND YEAR/Prog2370 (Game Programming)/Assignments/LSNGFinalProject-V4.8/LSNGFinalProject/Asteroids/Asteroids/Content/fonts/hilightFont.spritefont</File>
+    <File>C:/Users/fangt/Desktop/SEM 1 2ND YEAR/Prog2370 (Game Programming)/Assignments/LSNGFinalProject-V4.8/LSNGFinalProject/Asteroids/Asteroids/Content/fonts/regularFont.spritefont</File>
+    <File>C:/Users/fangt/Desktop/SEM 1 2ND YEAR/Prog2370 (Game Programming)/Assignments/LSNGFinalProject-V4.8/LSNGFinalProject/Asteroids/Asteroids/Content/fonts/titleFont.spritefont</File>
+    <File>C:/Users/fangt/Desktop/SEM 1 2ND YEAR/Prog2370 (Game Programming)/Assignments/LSNGFinalProject-V4.8/LSNGFinalProject/Asteroids/Asteroids/Content/images/asteroid.png</File>
+    <File>C:/Users/fangt/Desktop/SEM 1 2ND YEAR/Prog2370 (Game Programming)/Assignments/LSNGFinalProject-V4.8/LSNGFinalProject/Asteroids/Asteroids/Content/images/background.png</File>
+    <File>C:/Users/fangt/Desktop/SEM 1 2ND YEAR/Prog2370 (Game Programming)/Assignments/LSNGFinalProject-V4.8/LSNGFinalProject/Asteroids/Asteroids/Content/images/credits.png</File>
+    <File>C:/Users/fangt/Desktop/SEM 1 2ND YEAR/Prog2370 (Game Programming)/Assignments/LSNGFinalProject-V4.8/LSNGFinalProject/Asteroids/Asteroids/Content/images/explosionSprite.png</File>
+    <File>C:/Users/fangt/Desktop/SEM 1 2ND YEAR/Prog2370 (Game Programming)/Assignments/LSNGFinalProject-V4.8/LSNGFinalProject/Asteroids/Asteroids/Content/images/gameOverScreen.png</File>
+    <File>C:/Users/fangt/Desktop/SEM 1 2ND YEAR/Prog2370 (Game Programming)/Assignments/LSNGFinalProject-V4.8/LSNGFinalProject/Asteroids/Asteroids/Content/images/helpPage.png</File>
+    <File>C:/Users/fangt/Desktop/SEM 1 2ND YEAR/Prog2370 (Game Programming)/Assignments/LSNGFinalProject-V4.8/LSNGFinalProject/Asteroids/Asteroids/Content/images/missile.png</File>
+    <File>C:/Users/fangt/Desktop/SEM 1 2ND YEAR/Prog2370 (Game Programming)/Assignments/LSNGFinalProject-V4.8/LSNGFinalProject/Asteroids/Asteroids/Content/images/spaceship.png</File>
+    <File>C:/Users/fangt/Desktop/SEM 1 2ND YEAR/Prog2370 (Game Programming)/Assignments/LSNGFinalProject-V4.8/LSNGFinalProject/Asteroids/Asteroids/Content/sounds/hitsound.wav</File>
+    <File>C:/Users/fangt/Desktop/SEM 1 2ND YEAR/Prog2370 (Game Programming)/Assignments/LSNGFinalProject-V4.8/LSNGFinalProject/Asteroids/Asteroids/Content/sounds/menutheme.mp3</File>
+    <File>C:/Users/fangt/Desktop/SEM 1 2ND YEAR/Prog2370 (Game Programming)/Assignments/LSNGFinalProject-V4.8/LSNGFinalProject/Asteroids/Asteroids/Content/sounds/movement.mp3</File>
+    <File>C:/Users/fangt/Desktop/SEM 1 2ND YEAR/Prog2370 (Game Programming)/Assignments/LSNGFinalProject-V4.8/LSNGFinalProject/Asteroids/Asteroids/Content/sounds/shootsound.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

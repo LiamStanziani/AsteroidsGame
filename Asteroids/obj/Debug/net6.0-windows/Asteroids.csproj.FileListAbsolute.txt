@@ -1,0 +1,427 @@
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\fonts\hilightFont.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\fonts\regularFont.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\help.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.exe
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.deps.json
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.runtimeconfig.json
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.pdb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.csproj.AssemblyReference.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.AssemblyInfoInputs.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.AssemblyInfo.cs
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.csproj.CoreCompileInputs.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.csproj.CopyComplete
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\refint\Asteroids.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.pdb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.genruntimeconfig.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\ref\Asteroids.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\spaceship.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\background.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\hitsound.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\menutheme.wma
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\menutheme.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\movement.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\shootsound.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\movement.wma
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\fonts\hilightFont.xnb
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\fonts\regularFont.xnb
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\background.xnb
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\spaceship.xnb
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\hitsound.xnb
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\menutheme.wma
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\menutheme.xnb
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\movement.wma
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\movement.xnb
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\shootsound.xnb
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.exe
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.deps.json
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.runtimeconfig.json
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.dll
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.pdb
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.csproj.AssemblyReference.cache
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.AssemblyInfoInputs.cache
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.AssemblyInfo.cs
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.csproj.CoreCompileInputs.cache
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.csproj.CopyComplete
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.dll
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\refint\Asteroids.dll
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.pdb
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.genruntimeconfig.cache
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\ref\Asteroids.dll
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\missile.xnb
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\helpPage.xnb
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\credits.xnb
+C:\Users\natha\Downloads\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\asteroid.xnb
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\fonts\hilightFont.xnb
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\fonts\regularFont.xnb
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\asteroid.xnb
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\background.xnb
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\credits.xnb
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\helpPage.xnb
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\missile.xnb
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\spaceship.xnb
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\hitsound.xnb
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\menutheme.wma
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\menutheme.xnb
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\movement.wma
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\movement.xnb
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\shootsound.xnb
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.exe
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.deps.json
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.runtimeconfig.json
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.pdb
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.csproj.AssemblyReference.cache
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.AssemblyInfoInputs.cache
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.AssemblyInfo.cs
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.csproj.CopyComplete
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\refint\Asteroids.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.pdb
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.genruntimeconfig.cache
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\ref\Asteroids.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\explosionSprite.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\fonts\hilightFont.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\fonts\regularFont.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\asteroid.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\background.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\credits.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\explosionSprite.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\helpPage.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\missile.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\spaceship.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\hitsound.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\menutheme.wma
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\menutheme.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\movement.wma
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\movement.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\shootsound.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.exe
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.deps.json
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.runtimeconfig.json
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.pdb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.csproj.AssemblyReference.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.AssemblyInfoInputs.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.AssemblyInfo.cs
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.csproj.CoreCompileInputs.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.csproj.CopyComplete
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\refint\Asteroids.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.pdb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.genruntimeconfig.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\ref\Asteroids.dll
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\fonts\hilightFont.xnb
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\fonts\regularFont.xnb
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\asteroid.xnb
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\background.xnb
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\credits.xnb
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\explosionSprite.xnb
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\helpPage.xnb
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\missile.xnb
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\spaceship.xnb
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\hitsound.xnb
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\menutheme.wma
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\menutheme.xnb
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\movement.wma
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\movement.xnb
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\shootsound.xnb
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.exe
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.deps.json
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.runtimeconfig.json
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.dll
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.pdb
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.csproj.AssemblyReference.cache
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.AssemblyInfoInputs.cache
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.AssemblyInfo.cs
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.csproj.CoreCompileInputs.cache
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.csproj.CopyComplete
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.dll
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\refint\Asteroids.dll
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.pdb
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.genruntimeconfig.cache
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\ref\Asteroids.dll
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\gameOverScreen.xnb
+C:\Users\natha\Downloads\LSNGFinalProject-V4.3\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\fonts\titleFont.xnb
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\fonts\hilightFont.xnb
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\fonts\regularFont.xnb
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\fonts\titleFont.xnb
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\asteroid.xnb
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\background.xnb
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\credits.xnb
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\explosionSprite.xnb
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\gameOverScreen.xnb
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\helpPage.xnb
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\missile.xnb
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\spaceship.xnb
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\hitsound.xnb
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\menutheme.wma
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\menutheme.xnb
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\movement.wma
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\movement.xnb
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\shootsound.xnb
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.exe
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.deps.json
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.runtimeconfig.json
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.pdb
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.csproj.AssemblyReference.cache
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.AssemblyInfoInputs.cache
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.AssemblyInfo.cs
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.csproj.CopyComplete
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\refint\Asteroids.dll
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.pdb
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.genruntimeconfig.cache
+C:\Users\natha\OneDrive\Desktop\College\Year 2 - Fall\Game\Week14\LSNGFinalProject-V4.5.1\LSNGFinalProject-V4.3\LSNGFinalProject\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\ref\Asteroids.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\fonts\hilightFont.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\fonts\regularFont.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\fonts\titleFont.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\asteroid.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\background.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\credits.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\explosionSprite.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\gameOverScreen.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\helpPage.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\missile.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\spaceship.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\hitsound.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\menutheme.wma
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\menutheme.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\movement.wma
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\movement.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\shootsound.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.exe
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.deps.json
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.runtimeconfig.json
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.pdb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.csproj.AssemblyReference.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.AssemblyInfoInputs.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.AssemblyInfo.cs
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.csproj.CoreCompileInputs.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.csproj.CopyComplete
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\refint\Asteroids.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.pdb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.genruntimeconfig.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.7\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\ref\Asteroids.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\fonts\hilightFont.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\fonts\regularFont.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\fonts\titleFont.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\asteroid.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\background.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\credits.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\explosionSprite.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\gameOverScreen.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\helpPage.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\missile.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\images\spaceship.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\hitsound.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\menutheme.wma
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\menutheme.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\movement.wma
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\movement.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Content\sounds\shootsound.xnb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.exe
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.deps.json
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.runtimeconfig.json
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Asteroids.pdb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.csproj.AssemblyReference.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.AssemblyInfoInputs.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.AssemblyInfo.cs
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.csproj.CoreCompileInputs.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.csproj.CopyComplete
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\refint\Asteroids.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.pdb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\Asteroids.genruntimeconfig.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LSNGFinalProject-V4.8\LSNGFinalProject\Asteroids\Asteroids\obj\Debug\net6.0-windows\ref\Asteroids.dll

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/fangt/Desktop/SEM 1 2ND YEAR/Prog2370 (Game Programming)/Assignments/LSNGFinalProject-V4.8/LSNGFinalProject/Asteroids/Asteroids/Content/fonts/hilightFont.spritefont</SourceFile>
+  <SourceTime>2022-12-02T20:25:28-05:00</SourceTime>
+  <DestFile>C:/Users/fangt/Desktop/SEM 1 2ND YEAR/Prog2370 (Game Programming)/Assignments/LSNGFinalProject-V4.8/LSNGFinalProject/Asteroids/Asteroids/Content/bin/Windows/fonts/hilightFont.xnb</DestFile>
+  <DestTime>2022-12-10T11:45:38.1120891-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
